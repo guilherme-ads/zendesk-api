@@ -1,3 +1,5 @@
+const fetch = require('node-fetch')
+
 class ZendeskAPI{
     constructor(urlBase='', email='', token='', language=''){
         this.config = {
