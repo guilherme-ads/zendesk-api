@@ -1,0 +1,23 @@
+{
+  "name": "zendesk-api",
+  "version": "1.0.0",
+  "description": "Useful functions to access the Zendesk API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme-ads/zendesk-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilherme-ads/zendesk-api/issues"
+  },
+  "homepage": "https://github.com/guilherme-ads/zendesk-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
