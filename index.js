@@ -42,10 +42,6 @@ class ZendeskAPI{
             endpoint = json.next_page
         }
 
-        if(response.status >= 400){
-            console.log('Successfully captured users')
-        }
-
         return users
     }
 }
