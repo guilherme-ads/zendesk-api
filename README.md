@@ -9,7 +9,7 @@ How to use:
  - To instantiate, do like this:
  ```javascript
 const zendesk = new ZendeskApi(
-  'YourZendekUrl',
+  'YourZendeskUrl',
   'YourEmailToAccessZendesk',
   'YourTokenToUseZendeskAPI',
   'YourLanguage'
